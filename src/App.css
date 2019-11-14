@@ -1,5 +1,14 @@
+ body {
+  background-image: url('/src/photos/background.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+ }
+
 .App {
+  /* background-image: url('/src/photos/background.png'); */
   text-align: center;
+  background: black;
 }
 
 .App-logo {
