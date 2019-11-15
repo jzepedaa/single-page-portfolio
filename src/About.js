@@ -61,7 +61,7 @@ const About = () => (
                   Full Stack Web Development Certification.
           </li>
 
-                <li className="">Looking for the right team to grow as a web developer.
+                <li className="">Looking for the right team to grow as a Web Developer.
           </li>
               </ul>
 
