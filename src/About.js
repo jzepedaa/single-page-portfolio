@@ -66,11 +66,7 @@ const About = () => (
               </ul>
 
 
-              <p className="lead">
-                <br></br>
-               <h4><strong> My inner child makes work fun. My inner idealist always finds solutions & builds bridges. These two sides of me collide and add value to any employer!</strong></h4>
-
-        </p>
+           
               <div className="social-links">
                 <a href="http://google.com" rel="noopener noreferrer" target="_blank">
                   <i className="fa fa-linkedin-square" aria-hidden="true" />
