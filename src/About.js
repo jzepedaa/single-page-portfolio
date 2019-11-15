@@ -58,7 +58,7 @@ const About = () => (
                   Bachelors Degree in Computer Science.
           </li>
                 <li className="">
-                  Completed the Full Stack Coding BootCamp at Northwestern University.
+                  Certification in Full Stack Coding BootCamp at Northwestern University.
           </li>
 
                 <li className="">Looking for the right team to grow as a web developer.
