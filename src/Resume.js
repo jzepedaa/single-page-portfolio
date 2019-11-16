@@ -87,7 +87,7 @@ class Resume extends Component {
                 jobName="Sway Brand"
                 jodTitle="Web and Mobile App Developer"
                 jobDescription="Worked with React.js, Node.js.
-                Developed front-end websites via HTML/CSS/Javascript/Jquery. Maintained and modified various existing web applications. Promptly resolved problems that occurred on live sites. Took ownership of projects and drove them to completion on schedule. Had conference calls with client to know what implementations toa dd to website. Created components to implement them on current website."
+                Developed front-end websites via HTML/CSS/Javascript/Jquery. Maintained and modified various existing web applications. Promptly resolved problems that occurred on live sites. Took ownership of projects and drove them to completion on schedule. Had conference calls with clients to know what implementations to add to website. Created components to implement them on current website."
               />
 
               <Experience
