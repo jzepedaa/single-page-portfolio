@@ -7,6 +7,7 @@ import tiztal from "./photos/tiztalcafe.png";
 import wanderlust from "./photos/wanderlust.png";
 import hoopdata from "./photos/hoopdata.png";
 import soccertrivia from "./photos/soccertrivia.png"
+import amyheiaryoga from "./photos/Amy-Heiar Yoga.png"
 
 
 const Styles = styled.div`
@@ -58,6 +59,23 @@ class Projects extends Component {
 
             {/* <h2>Most Recent Projects</h2> */}
             <Grid>
+              <Cell className="card text-center" col={3} style={{ width: '17rem' }}>
+                <Card >
+                  <Card.Img variant="top" src={amyheiaryoga} />
+                  <Card.Body>
+                    <Card.Title>Amy Heir Yoga</Card.Title>
+                    <Card.Text>
+                      Website built with Reac.js, React Bootstrap, Node.js, HTML, CSS
+    </Card.Text>
+                    <ButtonToolbar>
+                      <Button variant="outline-secondary" block href="https://amyheiaryoga.com/" target="_blank">Live Website</Button>
+                      <Button variant="outline-secondary" block href="https://github.com/jzepedaa/amyyoga.git" target="_blank">Github Repo</Button>
+                    </ButtonToolbar>
+                  </Card.Body>
+                </Card>
+
+              </Cell>
+
 
               <Cell className="card text-center" col={3} style={{ width: '17rem' }}>
                 <Card >
@@ -73,9 +91,6 @@ class Projects extends Component {
                     </ButtonToolbar>
                   </Card.Body>
                 </Card>
-
-
-
 
               </Cell>
 
